@@ -1,3 +1,3 @@
-# PADS Project
+<p align="center"> # PADS Project </p>
 
 This project has been funded by Eurostars and is a multinational team effort. I have implemented the data engineering pipelines that are used to stream the digital advertising data into a NoSQL Database. From this database we have used Thompson Sampling Algorithms to decide on how to optimize the reserve price in an online auction. For this project Google Cloud Platform, Go Programming Language, Flask API, BaseHTTPRequestHandler Library and Clickhouse DB was used for data engineering implementation. For the data science part scikitlearn was used. The results have been sent to IEEE to be published as a paper.
